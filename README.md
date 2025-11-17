@@ -8,6 +8,8 @@ My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Core:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -24,6 +26,8 @@ My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks
 ![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
 
 ---
 
