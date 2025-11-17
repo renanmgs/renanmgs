@@ -77,37 +77,51 @@ I develop **PC, mobile, and VR games**, with emphasis on real-time systems:
 - **SESI Safety Simulations** — VR safety training used in corporate environments  
 - **Procedural tools** featured on **80.lv**  
   - Procedural Medieval Village Generator  
-  - UE5.2 Procedural Content Framework experiments  
+  # Renan M. G. Souza
+  ### Cross-Platform Flutter Developer · Game Developer · Web Developer · Virtual Production Tech
 
-📰 Articles:  
-- https://80.lv/articles/procedural-medieval-village-generator-set-up-in-unreal-engine-5/  
-- https://80.lv/articles/experimenting-with-ue5-2-s-procedural-content-generation-framework/  
+  I am a multidisciplinary developer with 7+ years of experience delivering apps, games, VR simulations, and interactive systems across Android, iOS, macOS, Windows, Web, and immersive platforms. My work blends real-time graphics, responsive UX, and scalable backends to solve practical problems for clients and players.
 
----
+  ---
 
-## 🌐 Web Developer (WordPress, JS, PHP)
+  ## Focus Areas
+  - Cross-platform product development with Flutter, Unreal Engine, and Unity
+  - Multiplayer, real-time collaboration, and data synchronization
+  - VR/AR simulations, digital twins, and virtual production workflows
+  - Modern web experiences with WordPress, JavaScript, and custom integrations
 
-I also build and maintain full web platforms:
+  ---
 
-- WordPress custom development  
-- JS/PHP integrations  
-- Web streaming platforms  
-- UI/UX modernization  
-- Maintenance & deployment pipelines  
+  ## Selected Work
+  **Character Craft 5.5e** — multiplatform toolkit for D&D players and DMs
+  - Real-time sync powered by Firebase and custom REST services
+  - XML import pipeline, initiative tracker, encounter generator, and PDF exports
+  - 3,000+ organic downloads within six months across desktop and mobile stores
 
-### Highlights
-- **NTPlay (100K+ downloads)** — streaming platform (mobile + web)  
-- **Rádio NT (10K+ downloads)** — music/radio streaming app  
-- Maintenance of Novo Tempo’s ecosystem (sites + apps)  
+  **Multiplayer VR Demo for Volvo (Tracbel)** — collaborative sales training experience delivered with Unreal Engine and custom network stack.
 
-<!-- ---
+  **SESI Safety Simulations** — suite of VR training modules used in corporate environments, including analytics tooling and deployment playbooks.
 
-## 📊 GitHub Stats
+  **Procedural Tools Featured on 80.lv** — procedural medieval village generator and UE5.2 PCG framework experiments highlighted by the industry press.
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight) -->
+  **NTPlay and Rádio NT Platforms** — streaming ecosystem spanning mobile apps and a web control center, built on WordPress and bespoke JS/PHP services.
 
----
+  ---
 
-### Thanks for stopping by!  
-Feel free to explore my projects or reach out — I’m always excited to build something new.
+  ## How I Build
+  - **Architecture:** Clean Architecture, domain-driven thinking, rigorous testing
+  - **Languages:** Dart, C++, C#, TypeScript/JavaScript, PHP, SQL
+  - **Engines & Frameworks:** Flutter, Unreal Engine, Unity, React, Node.js
+  - **Data & Services:** Firebase, REST/GraphQL, JSON pipelines, SQL backends
+  - **Tooling:** CI/CD pipelines, analytics instrumentation, store deployment automation
+
+  ---
+
+  ## Contact
+  - Email: renan_mgs@outlook.com
+  - Portfolio: https://renan_mgs.artstation.com
+  - Location: Jacareí, São Paulo, Brazil
+
+  ---
+
+  Thanks for stopping by. I am always interested in collaborations that blend creative technology with measurable impact.
