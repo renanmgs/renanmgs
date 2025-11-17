@@ -109,13 +109,5 @@ I also build and maintain full web platforms:
 
 ---
 
-## 📫 Contact
-
-- ✉️ **Email:** renan_mgs@outlook.com  
-- 🌐 **Portfolio:** https://renan_mgs.artstation.com
-- 📍 Jacareí – São Paulo – Brazil  
-
----
-
 ### Thanks for stopping by!  
 Feel free to explore my projects or reach out — I’m always excited to build something new.
