@@ -51,7 +51,7 @@ A multiplatform toolkit for D&D players and DMs
 - Online Initiative Tracker  
 - Encounter Generator  
 - PDF exports  
-- 1,500+ downloads in the first 6 months  
+- 3,000+ organic downloads in the first 6 months  
 - Built fully in Flutter  
 
 📱 **Android:** https://play.google.com/store/apps/details?id=com.charactercraft.renanmgs  
