@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Renan  
+# Hi, I'm Renan  
 ### Cross-Platform Flutter Developer • Game Developer (Unreal & Unity) • Web Developer • Virtual Production Tech
 
 I’m a multidisciplinary developer with **7+ years of experience** building apps, games, VR simulations, and interactive systems across **Android, iOS, macOS, Windows, Web, and VR/AR**.  
@@ -95,12 +95,12 @@ I also build and maintain full web platforms:
 ![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight) -->
 
 ---
 
