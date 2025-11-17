@@ -4,7 +4,6 @@
 I’m a multidisciplinary developer with **7+ years of experience** building apps, games, VR simulations, and interactive systems across **Android, iOS, macOS, Windows, Web, and VR/AR**.  
 My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks**, always combining performance, usability, and real-time interaction.
 
----
 
 ## 🛠 Tech Stack
 
