@@ -100,12 +100,10 @@ I also build and maintain full web platforms:
 - **Rádio NT (10K+ downloads)** — music/radio streaming app  
 - Maintenance of Novo Tempo’s ecosystem (sites + apps)  
 
-<!-- 
-
 ## GitHub Stats
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight) -->
+![Renan's GitHub stats](https://github-readme-stats-renanmgs.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats-renanmgs.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight&count_private=true)
 
 
 
