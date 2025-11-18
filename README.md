@@ -10,23 +10,23 @@ My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks
 <div align="center">
 
 **Core:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-000?style=plastic&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=plastic&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
 **Cloud & Backend:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+![REST](https://img.shields.io/badge/REST-02569B?style=plastic)
+![JSON](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
 
 **Platforms:**  
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000?style=plastic&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000?style=plastic&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 </div>
 
