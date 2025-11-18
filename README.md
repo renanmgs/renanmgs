@@ -101,9 +101,10 @@ I also build and maintain full web platforms:
 - Maintenance of Novo Tempo’s ecosystem (sites + apps)  
 
 ## GitHub Stats
-
+<div align="center">
 <!-- ![Renan's GitHub stats](https://github-readme-stats-renanmgs.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight&count_private=true)   -->
 ![Top Langs](https://github-readme-stats-renanmgs.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight&count_private=true)
+</div>
 
 
 
