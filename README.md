@@ -5,7 +5,7 @@ I’m a multidisciplinary developer with **7+ years of experience** building app
 My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks**, always combining performance, usability, and real-time interaction.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -30,9 +30,9 @@ My work spans **Flutter**, **Unreal Engine**, **Unity**, and **modern web stacks
 
 </div>
 
----
 
-## 🚀 Cross-Platform App Developer (Flutter)
+
+## Cross-Platform App Developer (Flutter)
 
 I specialize in building high-performance, production-ready apps for:
 
@@ -43,7 +43,7 @@ I specialize in building high-performance, production-ready apps for:
 - Material 3, responsive layouts, custom UI & animations
 - Store deployment (Play Store, App Store, Microsoft Store)
 
-### ⭐ Highlight: Character Craft 5.5e  
+### Highlight: Character Craft 5.5e  
 A multiplatform toolkit for D&D players and DMs  
 - Real-time Firebase sync  
 - XML import system  
@@ -53,13 +53,13 @@ A multiplatform toolkit for D&D players and DMs
 - 3,000+ organic downloads in the first 6 months  
 - Built fully in Flutter  
 
-📱 **Android:** https://play.google.com/store/apps/details?id=com.charactercraft.renanmgs  
-🍎 **iOS / macOS:** https://apps.apple.com/app/character-craft-5-5e/id6746456690  
-🪟 **Windows:** https://apps.microsoft.com/detail/9nxs4785bb52  
+ **Android:** https://play.google.com/store/apps/details?id=com.charactercraft.renanmgs  
+ **iOS / macOS:** https://apps.apple.com/app/character-craft-5-5e/id6746456690  
+ **Windows:** https://apps.microsoft.com/detail/9nxs4785bb52  
 
----
 
-## 🎮 Game Developer (Unreal Engine & Unity)
+
+## Game Developer (Unreal Engine & Unity)
 
 I develop **PC, mobile, and VR games**, with emphasis on real-time systems:
 
@@ -83,9 +83,9 @@ I develop **PC, mobile, and VR games**, with emphasis on real-time systems:
 - https://80.lv/articles/procedural-medieval-village-generator-set-up-in-unreal-engine-5/  
 - https://80.lv/articles/experimenting-with-ue5-2-s-procedural-content-generation-framework/  
 
----
 
-## 🌐 Web Developer (WordPress, JS, PHP)
+
+## Web Developer (WordPress, JS, PHP)
 
 I also build and maintain full web platforms:
 
@@ -100,14 +100,12 @@ I also build and maintain full web platforms:
 - **Rádio NT (10K+ downloads)** — music/radio streaming app  
 - Maintenance of Novo Tempo’s ecosystem (sites + apps)  
 
-<!-- ---
+## GitHub Stats
 
-## 📊 GitHub Stats
+![Renan's GitHub stats](https://github-readme-stats-renanmgs.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats-renanmgs.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight&count_private=true)
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmgs&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmgs&layout=compact&theme=tokyonight) -->
 
----
 
 ### Thanks for stopping by!  
 Feel free to explore my projects or reach out — I’m always excited to build something new.
